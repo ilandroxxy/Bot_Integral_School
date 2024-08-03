@@ -11,6 +11,7 @@ config.py
 /venv
 
 # Distribution / packaging
+.DS_Store
 .Python
 build/
 develop-eggs/
